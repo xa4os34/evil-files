@@ -1,3 +1,1 @@
-body {
-    background-image: url("javascript:avascript:alert(document.domain);");
-}
+body { background-image: expression(alert(1)); }
